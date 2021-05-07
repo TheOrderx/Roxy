@@ -1,0 +1,28 @@
+{
+  "name": "guardbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atillakurtulussimsek/GuardBot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atillakurtulussimsek/GuardBot/issues"
+  },
+  "homepage": "https://github.com/atillakurtulussimsek/GuardBot#readme",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "eslint": "^7.7.0",
+    "got": "^11.5.2",
+    "jsdom": "^16.4.0",
+    "moment": "^2.27.0",
+    "moment-timezone": "^0.5.31",
+    "mongoose": "^5.9.28"
+  }
+}

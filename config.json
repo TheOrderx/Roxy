@@ -1,0 +1,43 @@
+{
+    "Bot": {
+        "Prefix": "!",
+        "ClientID": "Cliend",
+        "Token": "Token",
+        "Owners": ["1","2","3"],
+        "Logs": {
+            "Bug": {
+                "WebHookID": "759829265092444243",
+                "WebHookTOKEN": "RB7AkeCCyy7Vn7LK7d6OeW-EWtJY6og7F12rm1RsaYfxrQWwsP_LwzMD4b09jb09zKYL"
+            },
+            "Suggestion": {
+                "WebHookID": "755805226048421938",
+                "WebHookTOKEN": "HVij1BfY0y8-IbAYCb1u2TvI4_2LGqTb6Wt3IzOuvSB5vo3H2EuwoHB0eXJxHj9-gV5H"
+            },
+            "Owner": {
+                "WebHookID": "759829674586013696",
+                "WebHookTOKEN": "OdUsDDjnwvB3U8NXCf5L3HAAVYA43Y_b8FCMfYVKEtcBBBQg_4-RVSZ693Gl3JFLgo1b"
+            },
+            "ServerAds": {
+                "WebHookID": "759829848461410365",
+                "WebHookTOKEN": "Oq8_y7Hk78enTgH7g5aAbYWTs4CXxdTpmhfy-_wYGTCRwYK5LFgbEFJdSMWfZ14DvNNe"
+            },
+            "Error": {
+                "WebHookID": "759829403042971718",
+                "WebHookTOKEN": "Z6KTl_iILiktz5uiQDEQGAl3R0PhhgrfCLnM4Am1tJNocLeHC4qQsFk98IMVzMn9n8qN"
+            }
+        }
+    },
+    "Data": {
+        "IP": "localhost",
+        "Port": "27017"
+    },
+    "Color": {
+        "Info": "#f26678",
+        "Loading": "#3498db",
+        "Success": "#2cf308",
+        "Error": "#ff2200"
+    },
+    "Timeouts": {
+        "ServerPanelUpdate": 5
+    }
+}
